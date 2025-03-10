@@ -1,0 +1,8 @@
+{
+    "title": "VRCT Example Plugins 2",
+    "plugin_id": "vrct_plugin_example_2",
+    "asset_name": "vrct_plugin_example_2.zip",
+    "plugin_version": "0.0.0",
+    "min_compatible_version": "3.0.4",
+    "max_compatible_version": "3.0.7"
+}
