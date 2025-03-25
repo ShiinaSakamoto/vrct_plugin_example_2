@@ -10,11 +10,7 @@ export const init = (plugin_context) => {
         return <MainContainer />;
     };
 
-    plugin_context.registerComponent({
-        plugin_id: "plugin_example_2",
-        location: "main_section",
-        component: EntryComponents,
-    });
+    plugin_context.registerComponent(EntryComponents);
 };
 
 export default init;
